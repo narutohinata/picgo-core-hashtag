@@ -1,4 +1,4 @@
-## picgo-plugin-picgo-core-unique_file
+## picgo-plugin-hashtag
 
 add hash to filename
 > ClI only

@@ -1,12 +1,12 @@
 {
-  "name": "picgo-plugin-picgo-core-unique_file",
+  "name": "picgo-plugin-hashtag",
   "version": "1.0.0",
   "description": "add hash to filename",
   "main": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "",
+  "homepage": "git@github.com:narutohinata/picgo-core-hashtag.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",
